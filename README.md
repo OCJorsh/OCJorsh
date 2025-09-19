@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Home Lab Set-up](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Lab Set-up](https://github.com/OCJorsh/Active-Dir.-Lab/tree/main)
 
 <h2> Data Structuring Projects</h2>
 
